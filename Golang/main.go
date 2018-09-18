@@ -1,7 +1,7 @@
 package main
 
-import "github.com/ZhenlyChen/LeetCode/Algorithms"
+import "./Algorithms"
 
 func main() {
-	Algorithms.Test5()
+	Algorithms.Test42()
 }
