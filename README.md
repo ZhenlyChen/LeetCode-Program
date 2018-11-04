@@ -16,7 +16,7 @@
 
 [42](https://blog.zhenly.cn/LeetCode/Trapping_Rain_Water/)
 
-51
+[51](https://blog.zhenly.cn/LeetCode/N_Queens/)
 
 [57](https://blog.zhenly.cn/LeetCode/Insert_Interval/)
 
@@ -29,3 +29,5 @@
 ### C++ (1)
 
 72
+
+97
