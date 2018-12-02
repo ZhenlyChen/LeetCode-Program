@@ -1,6 +1,6 @@
 # LeetCode-Program
 
-## Finish (12)
+## Finish (19)
 
 ### Golang (11)
 
@@ -26,8 +26,18 @@
 
 [135](https://blog.zhenly.cn/LeetCode/Candy/)
 
-### C++ (1)
+### C++ (7)
 
-72
+11
 
-97
+13
+
+[72](https://blog.zhenly.cn/LeetCode/Edit_Distance/)
+
+[97](https://blog.zhenly.cn/LeetCode/Interleaving_String/)
+
+115
+
+[128](https://blog.zhenly.cn/LeetCode/Longest_Consecutive_Sequence/)
+
+[174](https://blog.zhenly.cn/LeetCode/Dungeon_Game/)
